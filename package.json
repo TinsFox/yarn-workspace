@@ -1,0 +1,7 @@
+{
+  "name": "yarn-workspace",
+  "packageManager": "yarn@3.6.2",
+  "workspaces": [
+    "apps/*"
+  ]
+}
